@@ -27,5 +27,5 @@ for i in range (3)
 | Text     | Text     |   Text   |
 
 
-[](https://https://latex.codecogs.com/gif.latex?sum%20%3D%20%5Cint_%7Ba%7D%5E%7Bb%7Ddx)
+[formula](https://https://latex.codecogs.com/gif.latex?sum%20%3D%20%5Cint_%7Ba%7D%5E%7Bb%7Ddx)
 7Bb%7Ddx
