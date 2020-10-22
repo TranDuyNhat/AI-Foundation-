@@ -27,4 +27,4 @@ for i in range (3)
 | Text     | Text     |   Text   |
 
 
-[fomula](https://latex.codecogs.com/gif.latex?sum%20%3D%20%5Cint_%7Ba%7D%5E%7Bb%7Ddx)
+[fomula](https://latex.codecogs.com/gif.latex?sum&space;=&space;\int_{a}^{b}dx)
