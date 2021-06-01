@@ -6,3 +6,4 @@
 | *Linear Algebra* |    updating |
 | *Statistics and application* |    updating |
 | *Genetic Algorithm* |    updating |
+| *Hihi* |    updating |
