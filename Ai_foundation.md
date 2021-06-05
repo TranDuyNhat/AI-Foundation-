@@ -6,4 +6,8 @@
 | *Linear Algebra* |    updating |
 | *Statistics and application* |    updating |
 | *Genetic Algorithm* |    updating |
-| *Hihi* |    updating |
+| *Matplotlib* |    <a href="https://colab.research.google.com/drive/1lu8AVAsy1JfSj2E293QJmO-7kWn09dfb?authuser=2"><img class="notebook-badge-image" src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a> |
+
+
+
+
